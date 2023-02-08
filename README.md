@@ -7,7 +7,7 @@
 
 ## Demo
 
-https://beautiful-meringue-f69fab.netlify.app/
+https://the-newston-news.netlify.app/
 
 
 
