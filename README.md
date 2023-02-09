@@ -7,7 +7,7 @@
 
 ## Demo
 
-https://the-newston-news.netlify.app/
+https://the-newston-news.netlify.app
 
 
 
