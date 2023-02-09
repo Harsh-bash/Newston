@@ -8,12 +8,3 @@
 ## Demo
 
 https://the-newston-news.netlify.app
-
-
-
-## Build - 
-
-To Build this project run
-
-```bash
-  npm run build
